@@ -23,4 +23,3 @@ I'm a frontend developer specializing in creating responsive cross-browser inter
 
 ## Statistics:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvadeck&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kvadeck&theme=nord_dark)
