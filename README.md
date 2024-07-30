@@ -22,4 +22,4 @@ I'm a frontend developer specializing in creating responsive cross-browser inter
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 ## Statistics:
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvadeck&theme=nord_dark&exclude=php)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvadeck&theme=nord_dark)
