@@ -1,12 +1,10 @@
 ## Hello! 🌓 <img src="https://visitcount.itsvg.in/api?id=kvadeck&label=Profile%20Views&color=6&icon=7&pretty=true" alt="Kvadeck" align=right />
 
-Nice to meet you, my name is Nikolay.
+Nice to meet you! I'm Nikolay, a frontend developer focused on creating adaptive, cross-browser interfaces.
 
-I'm a frontend developer specializing in crafting adaptive and cross-browser user interfaces.
+Technical Skills: JavaScript, TypeScript, Vue.js, React.js, Nuxt.js, HTML/CSS, Tailwind, Sass, Git, REST API, WebSocket, Jest, and modern build tools (Vite, Webpack).
 
-Hard Skills: Includes proficiency in JavaScript, jQuery, Bootstrap, Webpack ,TypeScript, Sass, Vue, Vuex, REST API, Vue-router, Pinia, Vite, Element Plus, Vue.js, Git, CompositionAPI, CSS, Tailwind, Axios, Jest, I18n, Gulp, PrimeVue, VueJS, WebSocket, HTML, React.js, Nuxt.js, JS, ES6+.
-
-Soft Skills: I excel in problem-solving, with a knack for tackling complex challenges. I possess the expertise to seamlessly integrate user interfaces without resorting to starting from scratch. Moreover, I maintain a flexible approach towards technology and tasks, adapting readily to new requirements and opportunities.
+What I bring: Strong problem-solving abilities, seamless UI integration without rebuilding from scratch, and adaptability to new technologies and requirements.
 
 ## Feel free to connect with me
 [<img alt="telegram" src="https://img.shields.io/badge/telegram-%232992d5.svg?&logo=telegram&logoColor=white" />](https://t.me/kvadeck/) [<img alt="gmail" src="https://img.shields.io/badge/gmail-%23D85140.svg?&logo=gmail&logoColor=white" />](mailto:kvadeck@gmail.com) [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/n-volzhenin/)
